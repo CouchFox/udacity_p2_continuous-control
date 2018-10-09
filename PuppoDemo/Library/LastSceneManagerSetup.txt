@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PuppoTheCorgi/Fetch/Scenes/FetchTrainingScene.unity
+  isLoaded: 1
+  isActive: 1
